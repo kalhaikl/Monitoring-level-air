@@ -7,7 +7,7 @@
 #define SOUND_SPEED 0.034
 #include <WiFi.h> 
 #include <WiFiClient.h>
-const char* ssid	= "name_your_wifi";
+const char* ssid = "name_your_wifi";
 const char* pass = "your_password"; 
 const int trigPin = 14;
 const int echoPin = 27;
